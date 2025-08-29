@@ -1,16 +1,19 @@
-## Hi there 👋
+# Salut ! 👋
+Développeur Back-end passionné par les architectures logicielles et la création de systèmes scalables et maintenables.  
+Toujours curieux des nouvelles technologies et des solutions élégantes pour résoudre des problèmes complexes.
 
-<!--
-**IrALm/IrALm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Langages :** Java, C#, Python  
+**Frameworks :** Spring Boot  
+**Bases de données :** MySQL, PostgreSQL  
+
+**Concepts :**  
+- **Développement avancé :** Scala, Flutter, Android, programmation réactive  
+- **DevOps & Cloud :** CI/CD, containers, serverless, Infrastructure as Code  
+- **Architecture logicielle :** Microservices, Clean Architecture, DDD, BDD  
+- **IA & Data :** Machine Learning, Deep Learning, Reinforcement Learning  
+- **Systèmes et réseaux :** Rust, sécurité logicielle, cryptographie
+
