@@ -10,6 +10,7 @@ Always curious about new technologies and elegant solutions to complex problems.
 **Databases:** MySQL, PostgreSQL
 **Front:** HTML/CSS/Javascript/Typescript/Boostrap
 
+
 **Concepts:**  
 - **Advanced Development:** Scala, Flutter, Android, reactive programming  
 - **DevOps & Cloud:** CI/CD, containers, serverless, Infrastructure as Code  
