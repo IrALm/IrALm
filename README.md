@@ -7,7 +7,8 @@ Always curious about new technologies and elegant solutions to complex problems.
 
 **Languages:** Java, C#, Python  
 **Frameworks:** Spring Boot  
-**Databases:** MySQL, PostgreSQL  
+**Databases:** MySQL, PostgreSQL 
+**Front:** HTML/CSS/Javascript/Typescript/Boostrap
 
 **Concepts:**  
 - **Advanced Development:** Scala, Flutter, Android, reactive programming  
