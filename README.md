@@ -44,6 +44,14 @@ Toujours à la recherche de solutions élégantes aux problèmes complexes.
 - **Data-Driven Architecture**
 - **Domain-Driven Design (DDD)**
 
+### **DevOps & CI/CD**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+- **Conteneurisation:** Docker
+- **CI/CD:** Pipelines automatisés avec GitHub Actions et Jenkins
+
 ### **Tests & Qualité**
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
@@ -56,16 +64,13 @@ Toujours à la recherche de solutions élégantes aux problèmes complexes.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- **Technologies:** HTML5, CSS3, JavaScript, TypeScript
+- **Technologies:** HTML5, CSS3, JavaScript, TypeScript, Angular
 - **Framework CSS:** Bootstrap
 
 ### **Algorithmie**
 - Algorithmie avancée et structures de données complexes
 - Optimisation de la complexité temporelle et spatiale
 - Résolution de problèmes algorithmiques poussés
-
-
-
-
