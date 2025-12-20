@@ -1,4 +1,4 @@
-# Moïse AL 👋
+# Moïse AL 🙂
 
 Ingénieur Logiciel poursuivant actuellement une spécialité en **Architecture Logicielle**, passionné par la conception de systèmes back-end **scalables**, **maintenables** et **optimisés** pour le long terme.  
 Toujours à la recherche de solutions élégantes aux problèmes complexes.
