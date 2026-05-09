@@ -22,8 +22,8 @@
   - **Écosystème Spring :** Spring Boot, Spring Data JPA, Spring Batch, Spring Security, Spring Mail, Spring AI
   - **Persistence :** Hibernate, JPA, Pagination avancée
   - **Mapping :** MapStruct — mapping d'objets entre couches (DTO ↔ Entity)
-  - **Génération de documents :** PDF automatisés via Thymeleaf + Flying Saucer (contrats, quittances, EDL)
-  - **Java Avancé :** Aspects poussés du langage, Java Specifications
+  - **Génération de documents :** PDF automatisés via Thymeleaf + Flying Saucer 
+  - **Java Avancé :** Aspects poussés du langage, Java Specifications , Criteria API
   - **Temps Réel :** WebSocket STOMP pour systèmes temps réel
 
   ### **Bases de Données**
