@@ -13,12 +13,13 @@
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
   ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
   ![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
   ![MapStruct](https://img.shields.io/badge/MapStruct-DF2C2C?style=for-the-badge&logoColor=white)
   ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
   ![Flying Saucer PDF](https://img.shields.io/badge/Flying_Saucer_PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 
-  - **Écosystème Spring :** Spring Boot, Spring Data JPA, Spring Batch, Spring Security, Spring Mail
+  - **Écosystème Spring :** Spring Boot, Spring Data JPA, Spring Batch, Spring Security, Spring Mail, Spring AI
   - **Persistence :** Hibernate, JPA, Pagination avancée
   - **Mapping :** MapStruct — mapping d'objets entre couches (DTO ↔ Entity)
   - **Génération de documents :** PDF automatisés via Thymeleaf + Flying Saucer (contrats, quittances, EDL)
@@ -58,6 +59,15 @@
   - **Domain-Driven Design (DDD)**
   - **Serverless Architecture :** Conception de systèmes exploitant des services managés sans gestion d'infrastructure (BDD serverless, cache serverless, stockage objet) — maîtrise
    des compromis scalabilité / coût / cold start, et des cas d'usage où le serverless est pertinent vs une infrastructure dédiée
+
+ ### **Intégration IA & LLM**
+  ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+  - **Spring AI :** intégration de modèles de langage (LLM) dans un contexte Spring Boot — gestion des prompts, chaînes de traitement, abstraction multi-provider
+  - **Chatbot métier :** conception et développement d'un assistant conversationnel orienté domaine métier, capable de répondre à des questions contextualisées sur les données
+  applicatives
+  - **Prompt Engineering :** structuration des instructions système, gestion du contexte conversationnel, adaptation des réponses au domaine métier
+  - **RAG (Retrieval-Augmented Generation) :** compréhension et application du pattern RAG pour ancrer les réponses du LLM sur des données métier réelles
 
   ### **Stockage Objet & Fichiers**
   ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
