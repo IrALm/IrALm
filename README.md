@@ -23,7 +23,7 @@ d'appliquer des patterns par défaut.
 - SQL : PostgreSQL, MySQL
 - NoSQL : MongoDB
 - Cache : Redis
-- Object storage S3-compatible (MinIO)
+- Object storage S3-compatible
 - Migrations avec Flyway
 
 **Sécurité**
